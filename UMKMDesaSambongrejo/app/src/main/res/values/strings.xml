@@ -1,0 +1,67 @@
+<resources>
+    <string name="web_client_id">954869496037-vv6qsphro9rmae7421bqs0vudqdk726d.apps.googleusercontent.com</string>
+    <string name="app_name">UMKM Desa Sambongrejo</string>
+    <string name="splash">Selamat Datang di Pasar Desa Sambungrejo</string>
+    <string name="nama">Hanif Ridho</string>
+    <string name="nim">A11.2019.12203</string>
+    <string name="call">Call Center</string>
+    <string name="sms">SMS Center</string>
+    <string name="lokasi">Lokasi Kami</string>
+    <string name="akun">Akun</string>
+    <string name="tentang">Tentang</string>
+    <string name="tim">Dibuat oleh: Hanif Ridho - A11.2019.12203</string>
+    <string name="cpright">©2021</string>
+    <string name="login">Masuk</string>
+    <string name="regis">Daftar</string>
+    <string name="reset">Reset</string>
+    <string name="regis_here"><u>Daftar Disini!</u></string>
+    <string name="name">Nama Lengkap</string>
+    <string name="uname">Username</string>
+    <string name="pass">Password</string>
+    <string name="total">Total : </string>
+    <string name="edit_akun">Edit Akun</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="total_transaksi">Total Transaksi</string>
+    <string name="jumlah">Jumlah Pembayaran</string>
+    <string name="kembali">Kembali</string>
+    <string name="example_title">Nasi Goreng</string>
+    <string name="rp_12_000">Rp 12000</string>
+    <string name="id_transaksi">ID Transaksi : </string>
+    <string name="titik_dua">:</string>
+    <string name="_1233">1233</string>
+    <string name="id_konsumen">ID Konsumen : </string>
+    <string name="example_name">ABSD</string>
+    <string name="product">Product : </string>
+    <string name="title_name">Name : </string>
+    <string name="tanggal_beli">Tanggal Beli : </string>
+    <string name="quantity">Quantity : </string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="history_belanja">History Belanja</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="ongkir">Ongkir</string>
+    <string name="paket">Paket</string>
+    <string name="upload_bukti_pembayaran">Upload Bukti Pembayaran</string>
+    <string name="kirim_pembayaran">Kirim Pembayaran</string>
+    <string name="pilih_jenis_paket">Pilih Jenis Paket</string>
+    <string name="check_ongkir">Check Ongkir</string>
+    <string name="email">Email</string>
+    <string-array name="gender_array">
+        <item>Select Gender</item>
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="gender_update">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="jenis_paket">
+        <item>OKE</item>
+        <item>YES</item>
+        <item>SS</item>
+        <item>REG</item>
+    </string-array>
+</resources>

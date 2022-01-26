@@ -1,0 +1,4 @@
+Options -Indexes
+RewriteEngine On # Turn on the rewriting engine
+RewriteRule ^transaksi/?$ transaksi.php [NC,L]
+RewriteRule ^transaksi/([0-9]+)/?$ transaksi.php?id=$1 [NC,L]

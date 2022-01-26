@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "954869496037",
+    "project_id": "umkmsambongrejo",
+    "storage_bucket": "umkmsambongrejo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954869496037:android:c9d82dbb3305d9924abc0c",
+        "android_client_info": {
+          "package_name": "id.nesd.umkmdesasambongrejo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954869496037-7dv1evnfeul1jttrqsug3s36hmgj3k2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.nesd.umkmdesasambongrejo",
+            "certificate_hash": "55f78d20daac3e168f3cced5cf7d4a6a960e601c"
+          }
+        },
+        {
+          "client_id": "954869496037-vv6qsphro9rmae7421bqs0vudqdk726d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9DUGClMa5yCR110oWY-5DJQDWaKcJl2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954869496037-vv6qsphro9rmae7421bqs0vudqdk726d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+Options -Indexes
+RewriteEngine On # Turn on the rewriting engine
+RewriteRule ^konsumen/?$ konsumen.php [NC,L]
+RewriteRule ^konsumen/([0-9]+)/?$ konsumen.php?id=$1 [NC,L]

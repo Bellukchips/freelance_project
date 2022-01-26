@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2675925925925926" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.2675925925925926" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27291666666666664" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/activity_form_add_edit_konsumen.xml" value="0.23233695652173914" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/activity_form_input_edit.xml" value="0.21467391304347827" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/activity_report_global.xml" value="0.22735507246376813" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/activity_report_periodic.xml" value="0.22735507246376813" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/activity_splash.xml" value="0.1838768115942029" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/dialog_loading.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/fragment_product.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/fragment_product2.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/fragment_product_fragement.xml" value="0.18072916666666666" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/fragment_user.xml" value="0.18072916666666666" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/item_product.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/item_report.xml" value="0.22735507246376813" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/item_user.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/spinner_item.xml" value="0.15307971014492755" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/layout/view_copyright.xml" value="0.1838768115942029" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/menu/menu_cetak.xml" value="0.2171875" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/menu/menu_navbar.xml" value="0.25677083333333334" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/menu/menu_top.xml" value="0.25677083333333334" />
+        <entry key="..\:/AndroidStudioProjects/admin_umkm_sambongrejo/app/src/main/res/xml/network_security_config.xml" value="0.213768115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

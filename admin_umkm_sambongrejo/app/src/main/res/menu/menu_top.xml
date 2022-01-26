@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/laporan_penjualan_global"
+        android:id="@+id/report_global"/>
+    <item
+        android:title="@string/laporan_penjualan_periodik"
+        android:id="@+id/report_periodic"/>
+    <item
+        android:title="@string/log_out"
+        android:id="@+id/logout_tab"/>
+</menu>
