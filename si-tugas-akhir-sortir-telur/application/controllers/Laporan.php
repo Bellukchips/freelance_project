@@ -6,6 +6,8 @@ class Laporan extends CI_Controller
     {
         parent::__construct();
         $this->load->model('m_telur');
+		$this->load->model('auth_model');
+
     }
     public function index()
     {
@@ -24,6 +26,8 @@ class Laporan extends CI_Controller
             'tBuruk' => $this->m_telur->TelurBuruk($currentDate)
         );
         $data['judul'] = 'Halaman Laporan';
+		$data['current_user'] = $this->auth_model->current_user();
+
         $this->load->view('templates/header', $data);
         $this->load->view('laporan/index', $data);
         $this->load->view('templates/footer');
@@ -46,6 +50,8 @@ class Laporan extends CI_Controller
             'tBuruk' => $this->m_telur->TelurBurukByRange($awal, $akhir)
         );
         $data['judul'] = 'Halaman Laporan';
+		$data['current_user'] = $this->auth_model->current_user();
+
         $this->load->view('templates/header', $data);
         $this->load->view('laporan/index', $data);
         $this->load->view('templates/footer');
