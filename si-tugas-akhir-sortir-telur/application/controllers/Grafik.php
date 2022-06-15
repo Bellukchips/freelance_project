@@ -6,6 +6,8 @@ class Grafik extends CI_Controller
     {
         parent::__construct();
         $this->load->model('m_telur');
+		$this->load->model('auth_model');
+
     }
     public function index()
     {
@@ -21,6 +23,8 @@ class Grafik extends CI_Controller
             'grafikTelur' => $this->m_telur->GrafikTelur($currentDate, $currentDate)
         );
         $data['judul'] = 'Halaman Grafik';
+		$data['current_user'] = $this->auth_model->current_user();
+
         $this->load->view('templates/header', $data);
         $this->load->view('grafik/index', $data);
         $this->load->view('templates/footer');
@@ -39,6 +43,8 @@ class Grafik extends CI_Controller
             'grafikTelur' => $this->m_telur->GrafikTelur($awal, $akhir)
         );
         $data['judul'] = 'Halaman Grafik';
+		$data['current_user'] = $this->auth_model->current_user();
+
         $this->load->view('templates/header', $data);
         $this->load->view('grafik/index', $data);
         $this->load->view('templates/footer');
