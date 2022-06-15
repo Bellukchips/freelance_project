@@ -1,0 +1,27 @@
+.dateTime{
+    color: black;
+    width: 340px;
+    border: 3px solid black;
+    margin-bottom: 30px;
+}
+.date{
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.time{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time span:not(:last-child){
+    position: relative;
+    margin: 0 6px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 2px;
+
+}
