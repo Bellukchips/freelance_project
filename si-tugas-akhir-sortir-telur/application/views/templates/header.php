@@ -20,8 +20,27 @@
 
 <body onload="initClock()">
 
-  <nav class="navbar navbar-light bg-primary">
+  <!--<nav class="navbar navbar-light bg-primary">
     <img src="<?php echo base_url('assets'); ?>/images/telur.png" width="70" height="70" class="mr-3" alt="">
     <h4>SISTEM INFORMASI SORTIR TELUR AYAM (<?php echo $current_user->name; ?>)</h4>
     <a href="<?php echo base_url() ?>auth/logout" class="btn btn-outline-danger" style="color:white ;" type="submit">Logout</a>
+  </nav>-->
+	  <nav class="navba navbar-light bg-primary">
+    <div class="d-flex">
+      <div class="p-2">
+        <img src="<?php echo base_url('assets'); ?>/images/telur.png" width="70" height="70" class="mr-3" alt="">
+
+      </div>
+      <div class="p-2 mt-4">
+        <!-- <h4>SISTEM INFORMASI SORTIR TELUR AYAM (<?php echo $current_user->name; ?>)</h4> -->
+        <h4>SISTEM INFORMASI SORTIR TELUR AYAM</h4>
+
+      </div>
+      <div class="ml-auto mt-4 p-2">
+
+        <a href="<?php echo base_url() ?>auth/logout" class="btn btn-outline-danger" style="color:white ;" type="submit">Logout</a>
+
+      </div>
+    </div>
+
   </nav>
